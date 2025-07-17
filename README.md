@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=Hi%20there!&fontSize=60&fontColor=f7f5f5&section=header&textBg=true&animation=fadeIn)
-
 I'm a newbie Linux admin, exploring a bit of everything.
 
 ## Stack of technologies:
